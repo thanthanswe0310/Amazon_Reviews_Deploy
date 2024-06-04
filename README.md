@@ -1,2 +1,2 @@
-# Amazon_Reviews_Deploy
-Amazon Review Deploy
+# Amazon_Mobile_Reviews_Deploy
+Applied amazon mobile reviews dataset
